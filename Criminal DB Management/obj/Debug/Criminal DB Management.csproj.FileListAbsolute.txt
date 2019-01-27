@@ -1,0 +1,74 @@
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\CrimeDB.mdf
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\CrimeDB_log.ldf
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.exe
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.pdb
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.AdminLogin.resources
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.LoginOption.resources
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.exe
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.pdb
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.StaffLogin.resources
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Registration.resources
+c:\users\user\documents\visual studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuAd.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.exe.config
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.exe
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.pdb
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\CrimeDB.mdf
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\CrimeDB_log.ldf
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.exe
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.pdb
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.csprojResolveAssemblyReference.cache
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.AdminLogin.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Information.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Registration.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuAd.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuSt.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.StaffLogin.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Staff_Information.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.LoginOption.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Properties.Resources.resources
+C:\Users\Quazi Faruque\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.csproj.GenerateResource.Cache
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.exe.config
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.exe
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.pdb
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\bin\Debug\CrimeDB.mdf
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\bin\Debug\CrimeDB_log.ldf
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.exe
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\bin\Debug\Criminal DB Management.pdb
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.csprojResolveAssemblyReference.cache
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.AdminLogin.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Information.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Registration.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuAd.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuSt.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.StaffLogin.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Staff_Information.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.LoginOption.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Properties.Resources.resources
+D:\Study\SP1\Project\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal DB Management.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.add_staff.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Information.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuSt.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Criminal DB Management\Criminal DB Management\obj\Debug\Criminal_DB_Management.Staff_Information.resources
+F:\SP1\Prototype\Criminal DB Management\bin\Debug\Criminal DB Management.exe.config
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal DB Management.exe
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal DB Management.pdb
+F:\SP1\Prototype\Criminal DB Management\bin\Debug\CrimeDB.mdf
+F:\SP1\Prototype\Criminal DB Management\bin\Debug\CrimeDB_log.ldf
+F:\SP1\Prototype\Criminal DB Management\bin\Debug\Criminal DB Management.exe
+F:\SP1\Prototype\Criminal DB Management\bin\Debug\Criminal DB Management.pdb
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal DB Management.csprojResolveAssemblyReference.cache
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.add_staff.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.AdminLogin.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Information.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.Criminal_Registration.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuAd.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.MenuSt.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.StaffLogin.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.Staff_Information.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.LoginOption.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal_DB_Management.Properties.Resources.resources
+F:\SP1\Prototype\Criminal DB Management\obj\Debug\Criminal DB Management.csproj.GenerateResource.Cache
